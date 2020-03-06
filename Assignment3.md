@@ -48,12 +48,12 @@ Packages weighing more than 20 kg or, the content of which is listed in a list o
 ### WORK TO DO:
 ### 1. Give the use case diagram that describes how this company works.
 Refer to attachment：1-UseCase.jpg for details.
-<div align=center><img src="/Pics/1-UseCase.jpg" width="80%" height="80%"></div>
+<div align=center><img src="http://www.just4fun2u.top/wp-content/uploads/2020/03/1-UseCase-1024x960.png" width="80%" height="80%"></div>
 
 
 ### 2. Describe the static structure of this system using a class diagram.
 Refer to attachment：2-ClassDiagram.jpg for details.
-<div align=center><img src="/Pics/2-ClassDiagram.jpg " width="80%" height="80%"></div>
+<div align=center><img src="http://www.just4fun2u.top/wp-content/uploads/2020/03/2-ClassDiagram-1024x658.png" width="80%" height="80%"></div>
 
 
 ### 3. Describe the main scenario triggered by Customer Service using a sequence diagram.
@@ -61,10 +61,10 @@ There are two conditions for the sequence diagram:
 for the light or domestic packages, Refer to attachment：3.1-Sequence.jpg  
 for the heavy international packages, Refer to attachment：3.2-Sequence.jpg
 
-<div align=center><img src="/Pics/3.1-Sequence.jpg " width="80%" height="80%"></div>
+<div align=center><img src="http://www.just4fun2u.top/wp-content/uploads/2020/03/3.1-Sequence-1024x562.png " width="80%" height="80%"></div>
 <p align="center">3.1-Sequence.jpg</p>
 
-<div align=center><img src="/Pics/3.2-Sequence.jpg " width="80%" height="80%"></div>
+<div align=center><img src="http://www.just4fun2u.top/wp-content/uploads/2020/03/3.2-Sequence-1024x554.png" width="80%" height="80%"></div>
 <p align="center">3.2-Sequence.jpg</p>
 
 ## References
