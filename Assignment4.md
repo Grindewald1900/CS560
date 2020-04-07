@@ -2,24 +2,24 @@
 ### Assignment 3 G AN
 ### Group members : Yi Ren (002269013), Wentao Lu (002276355)
 ### Requirements Engineering
-**This exercise is for a simplified supermarket cash register system. The normal procedure
-for using the cash register is as follows:
-• A customer arrives at the checkout with items to pay.
-• The cashier records the identification number of each item, as well as the quantity
-if it is greater than one.
-• The checkout displays the price of each item and its description.
-• When all purchases are recorded, the cashier signals the end of the sale.
-• The cash register displays the total purchases.
-• The customer chooses his method of payment:
-✓ cash: the cashier collects the money received; the cashier indicates the
-currency to be returned to the customer;
+**This exercise is for a simplified supermarket cash register system. The normal procedure  
+for using the cash register is as follows:  
+• A customer arrives at the checkout with items to pay.  
+• The cashier records the identification number of each item, as well as the quantity  
+if it is greater than one.  
+• The checkout displays the price of each item and its description.  
+• When all purchases are recorded, the cashier signals the end of the sale.  
+• The cash register displays the total purchases.  
+• The customer chooses his method of payment:  
+✓ cash: the cashier collects the money received; the cashier indicates the  
+currency to be returned to the customer;  
 ✓ check: the cashier checks the creditworthiness of the customer by
-transmitting a request to an authorization center via the cashier;
-✓ credit card: a bank terminal is part of the cash register. It transmits an
+transmitting a request to an authorization center via the cashier;  
+✓ credit card: a bank terminal is part of the cash register. It transmits an  
 authorization request to an authorization center according to the type of
-card.
-• The cash register registers the sale and prints a receipt.
-• The cashier gives the customer the receipt.
+card.  
+• The cash register registers the sale and prints a receipt.  
+• The cashier gives the customer the receipt.  
 After the items have been entered, the customer can present discount coupons for certain
 items to the cashier. When payment is completed, the checkout transmits information on
 the number of items sold to the inventory management system.
